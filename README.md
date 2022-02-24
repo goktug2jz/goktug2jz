@@ -1,5 +1,11 @@
-### "Hello World" 👋
+## "Hello World" 👋
 
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m currently learning nothing.
+- 💬 Ask me about nothing.
+- ...
+- ..
+- .
 <!--
 **goktug2jz/goktug2jz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
